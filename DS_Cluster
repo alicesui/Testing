@@ -1,0 +1,5 @@
+
+type of clustering
+  1. Flat (K-mean) : use ebove method to select the cluster 
+  2. Hierarchical : botton-up  and top-down 
+    
